@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prefs_colorscheme">Colorscheme</string>
+    <string name="prefs_servers">Servers</string>
+    <string name="scrolling">Scrolling</string>
+    <string name="password">Password</string>
+    <string name="nickname">Nickname</string>
+    <string name="login">Login</string>
+    <string name="handshake_failed">Handshake failed</string>
+    <string name="credentials_wrong">Username or password wrong</string>
+</resources>
